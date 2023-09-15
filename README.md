@@ -1,2 +1,2 @@
-# coursera_ibm_devops_and_se
+# Coursera IBM DevOps and Software Engineering
 My work for IBM DevOps and Software Engineering online course.
