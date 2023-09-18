@@ -1,0 +1,29 @@
+Task 1: submit the URL of the repository (2pts)
+https://github.com/duarteoliper/github-final-project
+
+Task 2: submit the URL of the license file. (LICENSE.md, 2 pts)
+https://github.com/duarteoliper/github-final-project/blob/main/LICENSE
+
+Task 3: submit the URL of the main readme file. (REAMDE.md, 2 pts)
+https://github.com/duarteoliper/github-final-project/blob/main/README.md
+
+Task 4: submit the URL of the code of conduct file. (CONDUCT.md, 2 pts)
+https://github.com/duarteoliper/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+Task 5: submit the URL of the contribution guidelines file. (CONTRIBUTING.md, 2 pts)
+https://github.com/duarteoliper/github-final-project/blob/main/CONTRIBUTING.md
+
+Task 6: submit the URL of the simple-interest.sh file (2 pts)
+https://github.com/duarteoliper/github-final-project/blob/main/simple-interest.sh
+
+Task 7: Submit your GitHub username as entered in the Additional Authors section of the simple-interest.sh file. (2 pts)
+duarteoliper
+
+Task 8: submit the URL of the forked repository. (2 pts)
+https://github.com/duarteoliper/jbbmo-Introduction-to-Git-and-GitHub
+
+Task 9: submit the URL of the first pull request. (2 pts)
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/20602
+
+Task 10: submit the URL of the second pull request. (2 pts)
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/20603
